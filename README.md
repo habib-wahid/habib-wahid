@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Md Habibur Rahman
 
-<!--
-**habib-wahid/habib-wahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Software Engineer | Java, Spring Boot, Microservices, React, Typescript 
+☁️ AWS | Distributed Systems  
+🤖 Exploring Generative AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 5+ years building scalable backend systems  
+- Built systems handling **50K+ daily transactions**  
+- Improved performance & efficiency by **50%+**  
+- Strong in **Java, Spring Boot, Microservices, React**  
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** Spring Boot, Microservices, REST APIs  
+- **Frontend:** React, TypeScript  
+- **Database:** PostgreSQL, MySQL, Redis  
+- **Cloud:** AWS, Docker, CI/CD  
+
+---
+
+## 💼 Experience
+- **BRAC IT** — Software Engineer (2024–Present)  
+- **SmartCrowd** — Full Stack Engineer (2022–2024)  
+- **REVE Systems** — Junior Engineer (2021–2022)  
+
+---
+
+## 🧠 Competitive Programming
+- Solved **1000+ problems** (Codeforces, LeetCode)  
+
+---
+
+## 🌐 Connect
+- LinkedIn: https://www.linkedin.com/in/habib-wahid/
+- GitHub: https://github.com/habib-wahid
